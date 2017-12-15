@@ -1,4 +1,4 @@
-# Bitcoin Gold
+# Earth Coin
 
 [![Build Status](https://travis-ci.org/BTCGPU/BTCGPU.svg?branch=master)](https://travis-ci.org/BTCGPU/BTCGPU)
 
@@ -12,6 +12,4 @@ This is the staging tree of Bitcoin Gold. If you don’t understand what you are
 
 ## Links
 
-* Website: http://bitcoingold.org
-* Slack: [invitation](https://join.slack.com/t/bitcoin-gold/shared_invite/enQtMjY1MzkzMzUxNjY4LWM1YmQ4MjZhZTQxMWE1ZDQyNjA4N2QwZTkyZjYzMjhiMzdlMmVkNjQ3NzZlZDdmMDE4NWIyY2JmYzdjYmE2MzA)
-* TODO-list: https://trello.com/b/P1rLw1G9/bitcoin-gold-todos
+* Website: http://earthcoin.org
